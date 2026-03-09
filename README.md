@@ -1,135 +1,212 @@
-## Hi there 👋
-
-<!--
-**yahyayatusabe/yahyayatusabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yahya%20Lyazghi&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a8dadc&descAlignY=58&animation=fadeIn" width="100%"/>
-</div>
-
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Flask+%7C+Python+%7C+JavaScript;Always+learning%2C+always+building+%F0%9F%94%A5;From+Valencia%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=220&section=header&text=Yahya%20Lyazghi&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer&descColor=c084fc&descSize=22&descAlignY=68&animation=blinking" width="100%"/>
 </div>
 
 <br/>
 
-<!-- About me -->
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=650&height=45&lines=const+me+%3D+new+FullStackDeveloper()%3B;me.build(%22real+products%22)%3B+%F0%9F%9A%80;React+%7C+Flask+%7C+Python+%7C+PostgreSQL;Based+in+Valencia%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8;Always+learning.+Always+shipping.+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yahyayatusabe&label=Profile+Views&color=a855f7&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Based%20in-Valencia%20🇪🇸-a855f7?style=for-the-badge"/>
+</div>
+
+---
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## `$ whoami`
 
 ```python
-developer = {
-    "name":       "Yahya Lyazghi Lahssika",
-    "location":   "Alfafar, Valencia 🇪🇸",
-    "role":       "Full Stack Developer",
-    "learning":   "4Geeks Academy — Full Stack Software Development",
-    "languages":  ["Spanish 🇪🇸", "English 🇬🇧", "Arabic 🇲🇦", "Valencian"],
-    "available":  True
-}
+class Yahya:
+    name     = "Yahya Lyazghi Lahssika"
+    role     = "Full Stack Developer"
+    location = "Alfafar, Valencia 🇪🇸"
+    studying = "4Geeks Academy — Full Stack"
+    contact  = "yahyita123@gmail.com"
+    
+    languages = {
+        "spoken":  ["Spanish 🇪🇸", "Arabic 🇲🇦", "English 🇬🇧", "Valencian"],
+        "coded":   ["Python", "JavaScript", "Java", "SQL"]
+    }
+    
+    fun_fact = "Turned a 500 error into a career 😅"
 ```
 
-Programador web apasionado por construir productos reales, desde el frontend hasta la base de datos. Actualmente cursando el programa Full Stack en **4Geeks Academy** mientras sigo sumando experiencia en proyectos propios.
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 Tech DNA
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🎨 Frontend
+<div align="center">
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+</div>
+</td>
+<td valign="top" width="33%">
 
----
+### ⚙️ Backend
+<div align="center">
 
-## 💼 Experience
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-a855f7?style=flat-square)
 
-**🏢 Programador — Biofutur Truck S.L** *(Feb 2023 – Abr 2024)*
-> Diseño y desarrollo web de la empresa. FrontEnd con WordPress, control de formularios e implementación de elementos dinámicos.
+</div>
+</td>
+<td valign="top" width="33%">
 
-**🏢 Programador — Laberit** *(Nov 2023 – Jun 2024)*
-> Mejora del front-end de aplicación web con HTML, CSS y JavaScript. Trabajo en equipo con diseñadores, pruebas, depuración e implementación de nuevas funcionalidades.
+### 🗄️ Data & Tools
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📚 Los Libritos de Yajuala
-> Tienda online de libros con IA integrada. E-commerce completo con sistema de recomendaciones personalizadas y "Tinder de libros".
+> E-commerce de libros con **IA integrada**. Sistema de recomendaciones personalizadas + "Tinder de libros" con swipe. Full Stack real en producción con 226 commits.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-### ⭐ Star Wars Blog
-> API REST + Blog de Star Wars. Listado de personajes, planetas y vehículos con sistema de favoritos. Consumo de SWAPI con React y Context API.
+</td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+### ⭐ Star Wars Blog API
+> API REST + SPA con listado de personajes, planetas y vehículos. Sistema de favoritos persistente con Context API y autenticación JWT.
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 JWT Auth System
-> Sistema de autenticación completo con registro, login, rutas privadas y validación de tokens JWT con Flask + React.
+> Sistema de autenticación completo: signup, login, rutas privadas protegidas y validación de tokens. Backend Flask + Frontend React.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Biofutur Truck — Web Corporativa
+> Diseño y desarrollo de la web corporativa de la empresa. Frontend completo con WordPress, formularios de contacto y elementos dinámicos.
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Work Timeline
+
+```
+2023 ──────────────────────────────────────────────────────────── 2026
+
+Feb 2023          Nov 2023          2024              2025
+    │                 │               │                 │
+    ▼                 ▼               ▼                 ▼
+┌─────────┐     ┌─────────┐    ┌──────────┐    ┌──────────────┐
+│Biofutur │     │ Laberit │    │   TAME   │    │   4Geeks     │
+│Truck SL │     │         │    │  (DAM)   │    │  Full Stack  │
+│Frontend │     │Frontend │    │          │    │   Cursando   │
+│WordPress│     │HTML/CSS/│    │          │    │              │
+│         │     │   JS    │    │          │    │              │
+└─────────┘     └─────────┘    └──────────┘    └──────────────┘
+Apr 2024        Jun 2024        2025              2026 →
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yahyayatusabe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyayatusabe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=yahyayatusabe&theme=tokyonight&hide_border=true&background=0d0d0d&ring=c084fc&fire=a855f7&currStreakLabel=c084fc"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahyayatusabe&theme=tokyonight" width="95%"/>
 </div>
 
 ---
 
-## 📫 Contact
+## 📫 Let's connect
 
 <div align="center">
+  <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-lyazghi-lahssika/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyita123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yahyayatusabe)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Lyazghi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-lyazghi-lahssika/)
+  &nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-yahyita123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyita123@gmail.com)
+  &nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-yahyayatusabe-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yahyayatusabe)
+
+  <br/><br/>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+  <br/>
 
 </div>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=footer&text=Let's%20build%20something%20real&fontSize=18&fontColor=c084fc&animation=twinkling" width="100%"/>
 </div>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

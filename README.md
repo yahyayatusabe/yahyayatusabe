@@ -162,7 +162,7 @@ Feb 2023          Nov 2023          2024              2025
 ┌─────────┐     ┌─────────┐    ┌──────────┐    ┌──────────────┐
 │Biofutur │     │ Laberit │    │   TAME   │    │   4Geeks     │
 │Truck SL │     │         │    │  (DAM)   │    │  Full Stack  │
-│Frontend │     │Frontend │    │          │    │   Cursando   │
+│Frontend │     │Frontend │    │          │    │              │
 │WordPress│     │HTML/CSS/│    │          │    │              │
 │         │     │   JS    │    │          │    │              │
 └─────────┘     └─────────┘    └──────────┘    └──────────────┘
